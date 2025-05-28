@@ -5,6 +5,7 @@
   "main": "mailer.js",
   "type": "module",
   "scripts": {
+    "start": "node mailer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,7 @@
     "Software-Interview",
     "Typescript"
   ],
-  "author": "Anshuman Upadhyay",
+  "author": "Anshuman Upadhyay(https://anshumanupadhyay.me)",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/anshup7/recruiter-mailer/issues"
